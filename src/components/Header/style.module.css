@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 22px 80px 18px 80px;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.cenas {
+  font-size: 18px;
+}/*# sourceMappingURL=style.module.css.map */
